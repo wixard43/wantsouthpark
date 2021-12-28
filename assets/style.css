@@ -34,7 +34,7 @@ body {
     width: 0vmax;
     height: 0vmax;
     transform: translate(-50%,-50%);
-    background: #50f55b;
+    background: #50F55B;
     border-radius: 50%;
     transition: all 1s ease;
     overflow: hidden;
