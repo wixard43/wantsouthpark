@@ -6,7 +6,7 @@ body {
 
 #btnSi {
     background: transparent;
-    border: 3px solid #F55064;
+    border: 3px solid #50F55B;
     border-radius: 70px;
     padding: 10px 20px;
     font-size: 20px;
@@ -15,7 +15,7 @@ body {
 
 #btnNo {
     background: transparent;
-    border: 3px solid #F55064;
+    border: 3px solid #50F55B;
     border-radius: 70px;
     padding: 10px 20px;
     font-size: 20px;
@@ -23,7 +23,7 @@ body {
 }
 
 #btnSi:hover {
-    background-color: #F55064;
+    background-color: #50F55B;
     color: white;
 }
 
